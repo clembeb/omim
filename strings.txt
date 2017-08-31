@@ -17216,26 +17216,32 @@
   [add_my_position]
     en = Add my position
     ru = Добавить мое местоположение
+    fr = Ajouter ma position
 
   [choose_start_point]
     en = Choose a starting point
     ru = Выберите начало маршрута
+    fr = Choisir un point de départ
 
   [choose_destination]
     en = Choose a destination
     ru = Выберите конец маршрута
+    fr = Choisir une destination
 
   [preloader_viator_title]
     en = Discover tours and unusual activities
     ru = Откройте для себя экскурсии и необычные туры
+    fr = Découvrez des visites et des activités insolites
 
   [preloader_viator_message]
     en = Tours, activities, sightseeing and more
     ru = Туры, достопримечательности, экскурсии и многое другое
+    fr = Visites, activités, tourisme et plus
 
   [preloader_viator_button]
     en = Learn more
     ru = Посмотреть
+    fr = En apprendre plus
 
   [whats_new_title_route]
     ru = Вело и пешеходные маршруты стали лучше
